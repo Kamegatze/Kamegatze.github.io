@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: ./asset-manifest.json
-Disallow: ./static
+Disallow: /asset-manifest.json
+Disallow: /static
+Sitemap: https://kamegatze.github.io/Sitemap.xml
