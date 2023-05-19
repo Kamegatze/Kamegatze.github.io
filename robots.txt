@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: ./asset-manifest.json
+Disallow: ./static
